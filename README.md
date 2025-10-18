@@ -25,5 +25,3 @@ Bir **ticket yönetim uygulaması**. Kullanıcılar ticket oluşturabilir, günc
 ## Ekran Gif
 
 ![](app/assets/ekran.gif)
-
-# ticketApp-nextJs
